@@ -13,6 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
-title: website made using markdown
+
 description: github profile
-title: nil
+title: false
